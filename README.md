@@ -1,5 +1,6 @@
-# Simple Java + Docker
-
+# Docker image with custom JRE
+### -- By using jlink --
+<br>
 This repository contains source code example for build a multi-stage docker.
 
 This project contains a very simple Spring-boot code which responses on http://localhost:8080
